@@ -59,7 +59,7 @@ DATABASE_URL=postgresql://username:password@localhost:5432/yourdbname
 python app.py
 ```
 
-## 🔁 API Endpoints
+## API Endpoints
 
 | Method | Endpoint          | Description    |
 | ------ | ----------------- | -------------- |
